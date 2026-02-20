@@ -1,4 +1,4 @@
-# SQLite & SQL Server Compact Toolbox
+# SQLite & Microsoft SQL Server Compact Toolbox
 
 [![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/ErikEJ.SQLServerCompactSQLiteToolbox)](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox&ssr=false#review-details)
 [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/i/ErikEJ.SQLServerCompactSQLiteToolbox)](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox&ssr=false#review-details)
